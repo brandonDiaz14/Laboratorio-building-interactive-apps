@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyecto 3R</string>
+    <string name="find_beer">Buscar Material</string>
+    <string name="brands">no hay material seleccionado</string>
+
+    <string-array name="beeer_colors">
+        <item>Carton</item>
+        <item>Vidrio</item>
+        <item>Papel</item>
+        <item>Metal</item>
+        <item>Aluminio</item>
+    </string-array>
+</resources>
